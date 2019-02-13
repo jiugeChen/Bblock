@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1000px" height="1000px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+<path fill="#4D99EA" d="M719,547c-17,0-31,14-31,31v109H125V62h562v47c0,17,14,31,31,31s31-14,31-31V62c1-34-27-62-61-62H125
+	C91,0,62,28,62,62v875c0,34,28,62,62,62h562c34,0,62-28,62-62V578C750,561,736,547,719,547z M125,937V750h562v188H125V937z"/>
+<path fill="#4D99EA" d="M357,843c0,27,22,49,49,49s49-22,49-49s-22-49-49-49S357,816,357,843z"/>
+<path fill="#4D99EA" d="M906,187H656c-17,0-31,14-31,31v250c0,17,14,31,31,31h250c17,0,31-14,31-31V218C938,201,924,187,906,187z
+	 M875,437H688V250h188v187H875z M406,437c-17,0-31,14-31,31v125c0,17,14,31,31,31h125c17,0,31-14,31-31V469c0-17-14-31-31-31H406
+	V437z M500,562h-62v-62h62V562z"/>
+</svg>
